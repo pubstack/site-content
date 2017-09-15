@@ -1,0 +1,12 @@
+script: "echo potencialmente destructivo"
+#./refresh_submodule_site.sh
+
+after_success:
+  - git clone --recursive git@github.com:ccamacho/formulad.git
+  - cd formulad/fd/content
+  - git checkout master && git pull
+  - cd ../../
+  - git add *
+  - git commit -m "Pulled down update to submodule_dir"
+  - git push origin master
+
