@@ -18,7 +18,7 @@ test_site:
     - echo "potencialmente destructivo"
     - mkdir temp
     - cd temp
-    - git clone --recursive https://gitlab-ci-token:${CI_JOB_TOKEN}@gitlab.com:formulad/site-theme.git
+    - git clone --recursive http://gitlab-ci-token:${CI_JOB_TOKEN}@gitlab.com:formulad/site-theme.git
     #- git clone --recursive git@gitlab.com:formulad/site-theme.git
     - cd ./site-theme/fd/content
     - git checkout master && git pull
