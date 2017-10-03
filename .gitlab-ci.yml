@@ -5,13 +5,8 @@ stages:
 
 before_script:
   - whoami
-#  - echo "$SSH_PRIVATE_KEY" > ~/.ssh/id_rsa
-#  - cat ~/.ssh/id_rsa
-#  - pwd
-#  - chmod 0600 ~/.ssh/id_rsa
-
- # install ssh-agent
-#  - 'which ssh-agent || ( apt-get update -y && apt-get install openssh-client -y )'
+  # install ssh-agent
+  #  - 'which ssh-agent || ( apt-get update -y && apt-get install openssh-client -y )'
   # run ssh-agent
   - eval $(ssh-agent -s)
   # add ssh key stored in SSH_PRIVATE_KEY variable to the agent store
@@ -20,9 +15,8 @@ before_script:
   # WARNING: use only in docker container, if you use it with shell you will overwrite your user's ssh config
   - mkdir -p ~/.ssh
   - echo -e "Host *\n\tStrictHostKeyChecking no\n\n" > ~/.ssh/config
-
-
-
+  - git config --global user.email "ccamacho@formulad.org"
+  - git config --global user.name "FormulaD bot"
 
 test_site:
   stage: deploy
