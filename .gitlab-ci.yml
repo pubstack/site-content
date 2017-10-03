@@ -5,10 +5,24 @@ stages:
 
 before_script:
   - whoami
-  - echo "$SSH_PRIVATE_KEY" > ~/.ssh/id_rsa
-  - cat ~/.ssh/id_rsa
-  - pwd
-  - chmod 0600 ~/.ssh/id_rsa
+#  - echo "$SSH_PRIVATE_KEY" > ~/.ssh/id_rsa
+#  - cat ~/.ssh/id_rsa
+#  - pwd
+#  - chmod 0600 ~/.ssh/id_rsa
+
+ # install ssh-agent
+#  - 'which ssh-agent || ( apt-get update -y && apt-get install openssh-client -y )'
+  # run ssh-agent
+  - eval $(ssh-agent -s)
+  # add ssh key stored in SSH_PRIVATE_KEY variable to the agent store
+  - ssh-add <(echo "$SSH_PRIVATE_KEY")
+  # disable host key checking (NOTE: makes you susceptible to man-in-the-middle attacks)
+  # WARNING: use only in docker container, if you use it with shell you will overwrite your user's ssh config
+  - mkdir -p ~/.ssh
+  - echo -e "Host *\n\tStrictHostKeyChecking no\n\n" > ~/.ssh/config
+
+
+
 
 test_site:
   stage: deploy
@@ -18,8 +32,7 @@ test_site:
     - echo "potencialmente destructivo"
     - mkdir temp
     - cd temp
-    - git clone --recursive http://gitlab-ci-token:${CI_JOB_TOKEN}@gitlab.com:formulad/site-theme.git
-    #- git clone --recursive git@gitlab.com:formulad/site-theme.git
+    - git clone --recursive git@gitlab.com:formulad/site-theme.git
     - cd ./site-theme/fd/content
     - git checkout master && git pull
     - cd ../../
