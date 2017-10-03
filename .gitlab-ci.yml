@@ -5,6 +5,7 @@ stages:
 
 before_script:
   - whoami
+  - echo "$SSH_PRIVATE_KEY" >> ~/.ssh/id_rsa && chmod 0600 ~/.ssh/id_rsa
 
 test_site:
   stage: deploy
