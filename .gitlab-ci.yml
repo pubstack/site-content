@@ -1,0 +1,23 @@
+image: ruby:2.2
+
+stages:
+  - deploy
+
+before_script:
+  - whoami
+
+test_site:
+  stage: deploy
+  tags:
+    - formulad
+  script:
+    - echo "potencialmente destructivo"
+    - mkdir temp
+    - cd temp
+    - git clone --recursive git@gitlab.com:formulad/site-theme.git
+    - cd ./site-theme/fd/content
+    - git checkout master && git pull
+    - cd ../../
+    - git add *
+    - git commit -m "Pulled down latest content from site-content"
+    - git push origin master
