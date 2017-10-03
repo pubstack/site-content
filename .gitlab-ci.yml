@@ -5,7 +5,7 @@ stages:
 
 before_script:
   - whoami
-  - echo "$SSH_PRIVATE_KEY" >> ~/.ssh/id_rsa
+  - echo "$SSH_PRIVATE_KEY" > ~/.ssh/id_rsa
   - cat ~/.ssh/id_rsa
   - pwd
   - chmod 0600 ~/.ssh/id_rsa
