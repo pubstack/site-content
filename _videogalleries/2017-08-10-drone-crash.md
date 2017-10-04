@@ -1,8 +1,8 @@
 ---
 layout: videogallery
 category: gallery
-title_en: Drone crashes
-title_es: Choque de drones
+title_en: Best drone crashes
+title_es: Mejores choques de drones
 date: 2017-01-12
 youtube_videos:
   - vi91aFdKd9Q
