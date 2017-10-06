@@ -2,7 +2,7 @@
 layout: product
 locale: en
 category: store-kits
-name: FD storm drone
+title: FD storm drone
 flickr_picid: 37161989421
 main_pic: ""
 flickr_sec_images:

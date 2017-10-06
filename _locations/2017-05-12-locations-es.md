@@ -2,6 +2,7 @@
 locale: es
 category: locations
 year: 2017
+title: Ubicaciones
 flickr_location_1: 37056809332
 flickr_location_2: 36391358754
 ---

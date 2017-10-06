@@ -2,7 +2,7 @@
 layout: product
 locale: es
 category: store-kits
-name: FD dron de carreras
+title: FD dron de carreras
 flickr_picid: 36491089533
 main_pic: ""
 flickr_sec_images:

@@ -2,7 +2,7 @@
 layout: product
 locale: es
 category: store-merchandise
-name: FD taza de café
+title: FD taza de café
 flickr_picid: 36500475345
 main_pic: "http://i3.cpcache.com/product/98120002/mugs.jpg?side=Back&color=White"
 flickr_sec_images:

@@ -2,7 +2,7 @@
 layout: product
 locale: en
 category: store-merchandise
-name: FD Sweatshirt
+title: FD Sweatshirt
 flickr_picid: 36363289361
 main_pic: "http://i3.cpcache.com/product/98119361/logo_no_bg_sweatshirt.jpg?color=Black"
 flickr_sec_images:

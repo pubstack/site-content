@@ -2,7 +2,7 @@
 layout: product
 locale: en
 category: store-merchandise
-name: FD coffee mug
+title: FD coffee mug
 flickr_picid: 36500475345
 main_pic: "http://i3.cpcache.com/product/98120002/mugs.jpg?side=Back&color=White"
 flickr_sec_images:

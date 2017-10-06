@@ -2,7 +2,7 @@
 layout: product
 locale: en
 category: store-merchandise
-name: FD man t-shirt
+title: FD man t-shirt
 flickr_picid: 36363289691
 main_pic: "http://i3.cpcache.com/product/98119572/logo_no_bg_tshirt.jpg?color=DarkHeather"
 flickr_sec_images:

@@ -1,6 +1,7 @@
 ---
 category: staff
 locale: en
+title: Staff
 name: Cristina Catalan
 flickr_picid: 36065245990
 main_pic: "assets/images/product-1-md.jpg"

@@ -2,7 +2,7 @@
 layout: product
 locale: en
 category: store-merchandise
-name: FD messenger bag
+title: FD messenger bag
 flickr_picid: 36363495591
 main_pic: "http://i3.cpcache.com/product/98119706/messenger_bag.jpg?color=Khaki"
 flickr_sec_images:

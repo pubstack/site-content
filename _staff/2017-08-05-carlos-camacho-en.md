@@ -1,6 +1,7 @@
 ---
 category: staff
 locale: en
+title: Staff
 name: Carlos Camacho
 flickr_picid: 36293999592
 main_pic: "assets/images/product-1-md.jpg"

@@ -1,6 +1,7 @@
 ---
 locale: en
 category: locations
+title: Locations
 year: 2017
 flickr_location_1: 37056809332
 flickr_location_2: 36391358754

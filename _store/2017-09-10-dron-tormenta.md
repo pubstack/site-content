@@ -2,7 +2,7 @@
 layout: product
 locale: es
 category: store-kits
-name: FD dron de carreras tormenta
+title: FD dron de carreras tormenta
 flickr_picid: 37161989421
 main_pic: ""
 flickr_sec_images:

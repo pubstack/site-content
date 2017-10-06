@@ -2,7 +2,7 @@
 layout: product
 locale: en
 category: store-kits
-name: FD the daredevil
+title: FD the daredevil
 flickr_picid: 36491089533
 main_pic: ""
 flickr_sec_images:
