@@ -1,0 +1,4 @@
+[submodule "_posts/hsalomon"]
+	path = _posts/hsalomon
+	url = git@gitlab.com:formulad/site-content-hsalomon.git
+
