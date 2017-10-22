@@ -13,6 +13,12 @@ keywords:
   - race
   - usa
 
+tags:
+#  - News
+#  - DIY
+  - Prototypes
+  - Guides
+ 
 # Where should we display this content
 # Articles will show as a new,
 # but if you want them on the slider
