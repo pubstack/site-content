@@ -117,6 +117,8 @@ locales:
     diy: "DIY"
     guides: "Guides"
     prototypes: "Prototypes"
+    archive: "Archive"
+    articles: "Articles"
   es:
     latestap: "Últimas"
     latestas: "Última"
@@ -235,3 +237,5 @@ locales:
     diy: "DIY"
     guides: "Guias"
     prototypes: "Prototipos"
+    archive: "Archivo"
+    articles: "Artículos"
