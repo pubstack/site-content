@@ -119,6 +119,8 @@ locales:
     prototypes: "Prototypes"
     archive: "Archive"
     articles: "Articles"
+    videogalleries: "Video galleries"
+    photogalleries: "Photo galleries"
   es:
     latestap: "Últimas"
     latestas: "Última"
@@ -239,3 +241,5 @@ locales:
     prototypes: "Prototipos"
     archive: "Archivo"
     articles: "Artículos"
+    videogalleries: "Galerías de videos"
+    photogalleries: "Galerías de imágenes"
