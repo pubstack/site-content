@@ -24,7 +24,9 @@ test_site:
     - mkdir temp
     - cd temp
     - git clone --recursive git@gitlab.com:formulad/site-theme.git
-    - cd ./site-theme/fd/content
+    - cd ./site-theme
+    - git submodule update --recursive --remote
+    - cd ./fd/content
     - git checkout master && git pull
     - cd ../../
     - git add *
