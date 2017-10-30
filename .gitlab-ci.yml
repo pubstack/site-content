@@ -30,5 +30,5 @@ test_site:
     - git checkout master && git pull
     - cd ../../
     - git add *
-    - git commit -m "Pulled down latest content from site-content"
-    - git push origin master
+    - git commit -m "Pulled down latest content from site-content" || true
+    - git push origin master || true
