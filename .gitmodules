@@ -10,3 +10,6 @@
 [submodule "_posts/ajaume"]
 	path = _posts/ajaume
 	url = git@gitlab.com:formulad/site-content-ajaume.git
+[submodule "_posts/vboggio"]
+	path = _posts/vboggio
+	url = git@gitlab.com:formulad/site-content-vboggio.git
