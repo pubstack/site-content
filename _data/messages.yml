@@ -121,6 +121,7 @@ locales:
     articles: "Articles"
     videogalleries: "Video galleries"
     photogalleries: "Photo galleries"
+    distribution: "Distribution"
   es:
     latestap: "Últimas"
     latestas: "Última"
@@ -243,3 +244,4 @@ locales:
     articles: "Artículos"
     videogalleries: "Galerías de videos"
     photogalleries: "Galerías de imágenes"
+    distribution: "Distribución"
