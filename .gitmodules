@@ -13,3 +13,6 @@
 [submodule "_posts/vboggio"]
 	path = _posts/vboggio
 	url = git@gitlab.com:formulad/site-content-vboggio.git
+[submodule "_posts/cmoya"]
+	path = _posts/cmoya
+	url = git@gitlab.com:formulad/site-content-cmoya.git
