@@ -123,6 +123,8 @@ locales:
     photogalleries: "Photo galleries"
     distribution: "Distribution"
     become-guest-writer: "Become a guest writer"
+    guest: "Guest"
+    writer: "Writer"
   es:
     latestap: "Últimas"
     latestas: "Última"
@@ -247,3 +249,5 @@ locales:
     photogalleries: "Galerías de imágenes"
     distribution: "Distribución"
     become-guest-writer: "Conviértete en un escritor invitado"
+    guest: "Invitado"
+    writer: "Escritor"
