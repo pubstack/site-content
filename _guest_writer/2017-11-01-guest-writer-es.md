@@ -22,7 +22,7 @@ Puedes escribir sobre:
 ### Cómo enviar un artículo
 
 {: .text-white}
-Simplemente envía un correo electrónico a nuestro equipo de [contenido] (mailto: press@formulad.org) indicando:
+Simplemente envía un correo electrónico a nuestro equipo de [contenido](mailto: press@formulad.org) indicando:
 
 {: .text-white}
 * Dirección de correo electrónico preferida para comunicarnos contigo (asegúrate de que sea una dirección válida).
