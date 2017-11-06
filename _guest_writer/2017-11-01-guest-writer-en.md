@@ -17,7 +17,7 @@ please contact us for further details. You can write about:
 * Interesting Projects related to RC.
 * Anyway, just anything multirotor/FPV related, the sky’s the limit.
 
-## How To Submit Article
+### How To Submit Article
 
 {:.text-white}
 Just send an email to our [content](mailto:press@formulad.org) team indicating:

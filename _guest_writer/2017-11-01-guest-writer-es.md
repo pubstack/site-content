@@ -19,7 +19,7 @@ Puedes escribir sobre:
 * Proyectos interesantes relacionados con RC.
 * Cualquier tema relacionado con multirotor / FPV, el cielo es el límite.
 
-## Cómo enviar un artículo
+### Cómo enviar un artículo
 
 {: .text-white}
 Simplemente envía un correo electrónico a nuestro equipo de [contenido] (mailto: press@formulad.org) indicando:
