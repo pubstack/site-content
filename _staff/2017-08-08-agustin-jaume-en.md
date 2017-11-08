@@ -6,7 +6,7 @@ name: Agustin  Jaume
 flickr_picid: 24389861668
 main_pic: "assets/images/product-1-md.jpg"
 role: Research and development
-qr: "https://www.linkedin.com/in/agustin-jaume-617b3733/"
+qr: "https://goo.gl/LxWA3p"
 ---
 
 Agustín is a technology enthusiast always willing
