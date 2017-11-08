@@ -1,7 +1,7 @@
 ---
 category: staff
-locale: es
-title: Equipo
+locale: en
+title: Staff
 name: Cristobal Roche
 flickr_picid: 26484778609
 main_pic: "assets/images/avatar-1.jpg"
@@ -9,6 +9,7 @@ role: Creative
 qr: "http://cristobalroche.com/"
 ---
 
-Mario es un diseñador al que le encanta
-desarrollar contenido audiovisual
-creativo y de alta calidad.
+Cristobal is an integral designer
+born between canvases and ink.
+Specialist in editorial design, 3D,
+animation, motion graphics and web.
