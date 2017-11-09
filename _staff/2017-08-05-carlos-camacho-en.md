@@ -5,7 +5,7 @@ title: Staff
 name: Carlos Camacho
 flickr_picid: 38206170796
 main_pic: "assets/images/product-1-md.jpg"
-role: Founder
+role: Founder, R&D
 qr: "http://www.ccamacho.org/"
 ---
 

@@ -5,7 +5,7 @@ title: Staff
 name: Mario Delgado
 flickr_picid: 26503317789
 main_pic: "assets/images/avatar-1.jpg"
-role: Creative
+role: Co-Founder, Creative
 qr: "http://mariodelgadosevilla.es/"
 ---
 

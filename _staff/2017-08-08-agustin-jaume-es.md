@@ -5,7 +5,7 @@ title: Equipo
 name: Agustin  Jaume
 flickr_picid: 24389861668
 main_pic: "assets/images/product-1-md.jpg"
-role: Investigación y desarrollo
+role: Co-Founder, I+D
 qr: "https://goo.gl/LxWA3p"
 ---
 

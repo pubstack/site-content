@@ -5,7 +5,7 @@ title: Staff
 name: Agustin  Jaume
 flickr_picid: 24389861668
 main_pic: "assets/images/product-1-md.jpg"
-role: Research and development
+role: Co-Founder, R&D
 qr: "https://goo.gl/LxWA3p"
 ---
 
