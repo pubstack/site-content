@@ -5,7 +5,7 @@ title: Equipo
 name: Carlos Camacho
 flickr_picid: 38206170796
 main_pic: "assets/images/product-1-md.jpg"
-role: Fundador, I+D
+role: I+D
 qr: "http://www.ccamacho.org/"
 ---
 
