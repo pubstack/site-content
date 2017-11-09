@@ -3,7 +3,7 @@ category: staff
 locale: es
 title: Equipo
 name: Cristobal Roche
-flickr_picid: 26484778609
+flickr_picid: 38279360961
 main_pic: "assets/images/avatar-1.jpg"
 role: Creativo
 qr: "http://cristobalroche.com/"

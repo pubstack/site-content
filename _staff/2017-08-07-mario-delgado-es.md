@@ -3,7 +3,7 @@ category: staff
 locale: es
 title: Equipo
 name: Mario Delgado
-flickr_picid: 24389861538
+flickr_picid: 26503317789
 main_pic: "assets/images/avatar-1.jpg"
 role: Creative
 qr: "http://mariodelgadosevilla.es/"
