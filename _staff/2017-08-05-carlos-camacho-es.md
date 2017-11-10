@@ -10,7 +10,9 @@ qr: "http://www.ccamacho.org/"
 ---
 
 Carlos es un ingeniero de
-software ubicado 
-que ha creado el evento como un hobby
-ya que le encanta volar y estrellar
-sus drones.
+software que ha creado el evento tiempo
+atrás para probar sus destrezas
+en las carreras de drones. También
+busca hacer prototipos de nuevos
+drones para llevar al límite
+su equipo.

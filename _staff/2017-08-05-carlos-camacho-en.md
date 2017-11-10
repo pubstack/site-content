@@ -10,7 +10,8 @@ qr: "http://www.ccamacho.org/"
 ---
 
 Carlos is a software engineer
-and have created this event as
-a hobby as he like to fly and
-crash his race drones.
+who have created this event long
+time ago to test his race drone skills.
+Also likes to prototype new designs
+to push his equipment to the limit.
 
