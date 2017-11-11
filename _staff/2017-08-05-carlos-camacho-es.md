@@ -9,10 +9,11 @@ role: I+D
 qr: "http://www.ccamacho.org/"
 ---
 
-Carlos es un ingeniero de
-software que ha creado el evento tiempo
-atrás para probar sus destrezas
+Carlos el ingeniero de
+software que ha creado el evento,
+esto, con la razón de 
+probar sus destrezas
 en las carreras de drones. También
 busca hacer prototipos de nuevos
-drones para llevar al límite
+drones y llevar al límite
 su equipo.
