@@ -125,6 +125,8 @@ locales:
     become-guest-writer: "Become a guest writer"
     guest: "Guest"
     writer: "Writer"
+    working-together: "We are looking for partners!"
+    working-together-email: "If you think we can work together, email us at prod [at] formulad.org" 
   es:
     latestap: "Últimas"
     latestas: "Última"
@@ -251,3 +253,5 @@ locales:
     become-guest-writer: "Conviértete en un escritor invitado"
     guest: "Invitado"
     writer: "Escritor"
+    working-together: "Buscamos partners!"
+    working-together-email: "Si crees que podemos trabajar juntos, envíanos un email prod [arroba] formulad.org" 
