@@ -126,7 +126,8 @@ locales:
     guest: "Guest"
     writer: "Writer"
     working-together: "We are looking for partners!"
-    working-together-email: "If you think we can work together, send us an email to prod [at] formulad.org" 
+    working-together-email: "If you think we can work together, send us an email to prod [at] formulad.org"
+    sticky: "Sticky"
   es:
     latestap: "Últimas"
     latestas: "Última"
@@ -254,4 +255,5 @@ locales:
     guest: "Invitado"
     writer: "Escritor"
     working-together: "Buscamos partners!"
-    working-together-email: "Si crees que podemos trabajar juntos, envíanos un email a prod [arroba] formulad.org" 
+    working-together-email: "Si crees que podemos trabajar juntos, envíanos un email a prod [arroba] formulad.org"
+    sticky: "Destacado"
