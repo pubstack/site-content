@@ -1,5 +1,6 @@
 locales:
   en:
+    drc: "Drone race championship"
     latestap: "Latest"
     latestas: "Latest"
     latestop: "Latest"
@@ -160,6 +161,7 @@ locales:
     schedule-description: "The schedule for the matches in FormulaD race championship."
     teams-description: "The rival teams in this FormulaD race championship."
   es:
+    drc: "Campeonato de carreras de drones"
     latestap: "Últimas"
     latestas: "Última"
     latestop: "Últimos"
