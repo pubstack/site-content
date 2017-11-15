@@ -1,6 +1,6 @@
 ---
 locale: en
-category: guest_writer
+category: guest-writer
 title: Become a guest writer
 ---
 

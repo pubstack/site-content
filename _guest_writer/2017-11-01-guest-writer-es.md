@@ -1,6 +1,6 @@
 ---
 locale: es
-category: guest_writer
+category: guest-writer
 title: Conviertete en un escritor invitado
 ---
 
