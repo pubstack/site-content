@@ -22,7 +22,7 @@ Flemish primitives, expressionists and impressionists.
 </div>
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-left mt-0" src="{% flickr_image page.flickr_location_2 %}" alt="">
+    <img style="height: 155px;" class="pull-right mt-0" src="{% flickr_image page.flickr_location_2 %}" alt="">
         <p class="text-white">
 The famed Plaza del Toros is the largest arena in the city,
 proving that nothing sparks up a festive ambiance like watching
