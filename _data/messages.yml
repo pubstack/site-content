@@ -1,5 +1,6 @@
 locales:
   en:
+    home: "Home page"
     404: "Page not found"
     drc: "Drone race championship"
     latestap: "Latest"
@@ -181,6 +182,7 @@ locales:
     2017-schedule: "2017 schedulle"
     2017-teams: "2017 teams"
   es:
+    home: "Página de inicio"
     404: "Página no encontrada"
     drc: "Campeonato de carreras de drones"
     latestap: "Últimas"
