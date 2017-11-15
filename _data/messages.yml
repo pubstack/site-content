@@ -1,5 +1,6 @@
 locales:
   en:
+    404: "Page not found"
     drc: "Drone race championship"
     latestap: "Latest"
     latestas: "Latest"
@@ -153,6 +154,7 @@ locales:
     archive-description: "All the FormulaD content sorted and clasified in categories without images for an easy finding."
     guest-writer-description: "If you want to become a guest writer you can work with us, just follow the steps in this page."
     404-description: "This page is not found!!!."
+    countdown: "Countdown"
     countdown-description: "This is a countdown page for the FormulaD race championship."
     offline-description: "The page is offline."
     locations-description: "This page describes all the FormulaD current locations across the globe."
@@ -160,7 +162,9 @@ locales:
     results-description: "The results and score page of FormulaD race championship."
     schedule-description: "The schedule for the matches in FormulaD race championship."
     teams-description: "The rival teams in this FormulaD race championship."
+    guest-writer: "Guest writer"
   es:
+    404: "Página no encontrada"
     drc: "Campeonato de carreras de drones"
     latestap: "Últimas"
     latestas: "Última"
@@ -314,6 +318,7 @@ locales:
     archive-description: "Todo el contenido del campeonato de carreras de drones FormulaD ordenado y clasificado en categorías sin imágenes para que puedas encontrar los artículos de manera facil y rapida."
     guest-writer-description: "Si quieres convertirte en escritor invitado, puedes trabajar con nosotros, solo sigue los pasos de esta página."
     404-description: "La página no ha sido encontrada!!."
+    countdown: "Cuenta regresiva"
     countdown-description: "Esta es una página de cuenta regresiva para el campeonado de carreras de drones FormulaD."
     offline-description: "La página está fuera de linea."
     locations-description: "Esta página describe todas las ubicaciones actuales del campeonado de carreras de drones FormulaD en todo el mundo."
@@ -321,3 +326,4 @@ locales:
     results-description: "La página de resultados y puntuación del campeonado de carreras de drones FormulaD."
     schedule-description: "El calendario de los partidos y encuentros del campeonado de carreras de drones FormulaD."
     teams-description: "Esta página muestra los Los equipos rivales del campeonado de carreras de drones FormulaD."
+    guest-writer: "Escritor invitado"
