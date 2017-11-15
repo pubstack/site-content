@@ -29,6 +29,3 @@ Just send an email to our [content](mailto:press@formulad.org) team indicating:
 * We will reply in email to confirm if the article or topics is something we can use on our blog.
 * We incourage our writers to respect our language parity policy, so any article, guide, news, tutorials, etc must be writen in both
 Spanish and English.
-
-
-
