@@ -18,13 +18,14 @@ before_script:
   - git config --global user.email "ccamacho@formulad.org"
   - git config --global user.name "FormulaD bot"
 
-test_site:
+push_site:
   stage: deploy
   script:
     - mkdir temp
     - cd temp
     - git clone --recursive git@gitlab.com:formulad/site-theme.git
     - cd ./site-theme
+    - git submodule update --init --recursive
     - git submodule update --recursive --remote
     - cd ./fd/content
     - git checkout master && git pull
