@@ -3,7 +3,7 @@ category: staff
 locale: en
 title: Staff
 name: Agustin  Jaume
-flickr_picid: 24389861668
+flickr_picid: 26724813529
 main_pic: "assets/images/product-1-md.jpg"
 role: R&D
 qr: "https://goo.gl/LxWA3p"
