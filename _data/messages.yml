@@ -1,5 +1,6 @@
 locales:
   en:
+    search: "Search"
     home: "Home page"
     404: "Page not found"
     drc: "Drone race championship"
@@ -174,6 +175,7 @@ locales:
     schedule-description: "The schedule for the matches in FormulaD race championship."
     register-description: "This page allows you to know everything to participate in the event. Pilots, hotels and general public, here you will find all the information you need."
     teams-description: "The rival teams in this FormulaD race championship."
+    search-description: "In this page you can search an find all post you need, just go to the search field and start typing"
     guest-writer: "Guest writer"
     rules-gobernance: "Rules and gobernance"
     2017-locations: "2017 locations"
@@ -182,6 +184,7 @@ locales:
     2017-schedule: "2017 schedulle"
     2017-teams: "2017 teams"
   es:
+    search: "Buscar"
     home: "Página de inicio"
     404: "Página no encontrada"
     drc: "Campeonato de carreras de drones"
@@ -356,6 +359,7 @@ locales:
     schedule-description: "El calendario de los partidos y encuentros del campeonado de carreras de drones FormulaD."
     register-description: "Esta página te permitirá saber todo lo necesario para participar en el evento, pilotos, hoteles y público general aquí está la información que necesitas."
     teams-description: "Esta página muestra los Los equipos rivales del campeonado de carreras de drones FormulaD."
+    search-description: "ESta página te permitirá buscar todos los artículos en función de tus necesidades, solo ve al campo de búsqueda y empieza a escribir."
     guest-writer: "Escritor invitado"
     rules-gobernance: "Reglas y gobierno"
     2017-locations: "Ubicaciones 2017"
