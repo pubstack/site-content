@@ -9,8 +9,8 @@ flickr_sec_images:
   - 36363289361
   - 36363289361
   - 36363289361
-price: "42"
-sale_price: "20"
+price: "54"
+sale_price: "35"
 currency: "Eur"
 sku: "4405-0035"
 sizes:
