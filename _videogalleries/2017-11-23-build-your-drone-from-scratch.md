@@ -9,4 +9,6 @@ youtube_videos:
   - fT3UkBbU6yo
   - Gk_jnNwl-wc
   - xCEIi-B-JIc
+  - 2L7aZg_TdKM
+  - I31ouCx8fSw
 ---
