@@ -8,36 +8,152 @@ s4_category_pdf: /assets/specs/multigp-fpv-racing-league-2017-specs.pdf
 open_category_pdf: /assets/specs/multigp-fpv-racing-league-2017-open-spec.pdf
 ---
 
+
+
 {:.text-main-1}
-#### Classes are important for the following reasons
+#### Tamaño de la aeronave
+
++ Diámetro máximo de la hélice de 5 pulgadas.
++ Tamaño del marco 330 milímetros máximo.
++ Embarcación multirotor con motores min 4.
++ Batería LiPo 4S máxima, máximo 4,2 voltios por celda.
++ Debe ser capaz de duraciones de carrera de hasta 3 minutos.
+
+{:.text-main-1}
+#### Transmisores de video
+
+Se requieren transmisores de video seleccionados para competir en la serie de carreras de drones.
+
++ Potencia de salida: 25mw - 200mw o conmutable.
++ Canales requeridos: Banda capaz, 40 canales.
+
+Encenderlos en cualquier momento cuando no esté compitiendo resultará en la descalificación inmediata.
+
+Se requiere que todos los corredores proporcionen un VTX de 200
+mw adecuado. Tenga en cuenta que los requisitos de VTx pueden
+cambiar por evento. Se usarán y determinarán 25mw o 200mw antes del evento.
+
+Todos los pilotos deben ser capaces de entender completamente todas las operaciones
+de su Tx, y ser capaces de cambiar los canales y la potencia según lo requerido
+por la pista y los oficiales de carrera. En todos los casos que no sean carreras,
+los Tx deben estar apagados. Los canales serán preasignados antes de la carrera.
+Los corredores deben poder cambiar los canales en su VTX con relativa facilidad
+si así lo requiere el director de la carrera.
+
+{:.text-main-1}
+#### Antenas RH y LH
+Relación axial recomendada: .6
+
+Es muy recomendable traer varios juegos de antenas para mano
+derecha e izquierda. También actualice sus antenas a las últimas
+iteraciones (relaciones axiales de .60 o mejor) para garantizar
+una señal limpia con mayor número de pilotos por curso en varias pistas.
+
+{:.text-main-1}
+#### Requisitos de gafas
+Los pilotos con gafas podrán conectarse a las estaciones de tierra con
+los cables provistos. Si tiene otro tipo de gafas, puede traer su propio adaptador RCA.
+
+
+
+{:.text-main-1}
+#### Verificaciones de los drones
+
+Las consignas y verificaciones tienen como objetivo mantener a las aeronaves
+y los asistentes dentro de unos parámetros de Seguridad mínimos, ya que debido
+a la concentración y diversidad de material que nos encontramos, hay que
+mantener unos estándares de Seguridad válidos para todos.
+
+Os enumeramos del 1 al 5 las consignas que el equipo técnico de verificaciones
+del STAFF llevará a cabo en el momento de la entrada al recinto.
+
+Si no se cumple alguna de las condiciones, el piloto dispondrá de una zona de
+boxes y asistencia técnica, donde podrá corregirlas.
+
+Una vez pasadas todas las comprobaciones, la aeronave se marcará con pintauñas
+o similar, en un lugar visible, para confirmar que está VERIFICADA y es apta
+para volar.
+
+Antes de cada vuelo, se verificará que las aeronaves que van a salir a pista,
+llevan la marca de VERIFICACION.
+
+Se recuerda a todos los participantes que queda terminantemente prohibido
+conectar cualquier aeronave dentro del recinto CON LAS HELICES PUESTAS.
+La Organización deberá preveer un espacio asegurado para que los pilotos puedan
+hacer pruebas de vuelo en tercera persona.
+
+
+
+1. **Emisor de video** El emisor de video debe quitarse del quad, o en su defecto, asegurar su
+desconexión.
+
+2. **Cableado VTX** Comprobar que se llevan los dos cables Mollex conectados y con la
+lengueta anulada.
+
+3. **Gafas** El receptor que llevan las gafas, debe quitarse para evitar problemas.
+
+4. **Helices** No se permite llevar las helices puestas cuando se vaya a manipular el
+quad.
+
+5. **FailSafe** Comprobación del sistema failsafe del quad efectivo. (emisora o controladora)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{:.text-main-1}
+#### Las clases son importantes por las siguientes razones
 
 {:.text-white}
-+ They level the playing field so one pilot doesn’t have an advantage over another by using more powerful equipment.  This allows the pilot’s skill to win the race, not their equipment.
-+ Aircraft builds can be planned with confidence that they will be accepted into competition.
-+ To ensure radio equipment is compatible with fellow pilot’s equipment as to not cause interference.
++ Permiten nivelar el campo de vuelo, de esta manera ningun piloto
+tendrá ventajas sobre otros al utilizar equipos mas poderosos.
+Esto permite al piloto ganar la carrera, no a su equipación.
++ Las aeronaves pueden ser diseñadas con confianza ya
+que serán aceptadas en la competencia.
++ Permitiran determinar que los componentes emisores de radiofrecuencias
+serán compatibles y no causarán interferencias.
 
 <div class="nk-tabs">
   <ul class="nav nav-tabs nav-tabs-fill" role="tablist">
     <li class="nav-item">
-      <a class="nav-link active" href="#tabs-1-1" role="tab" data-toggle="tab">3S Class</a>
+      <a class="nav-link active" href="#tabs-1-1" role="tab" data-toggle="tab">Clase 3S</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="#tabs-1-2" role="tab" data-toggle="tab">4S Class</a>
+      <a class="nav-link" href="#tabs-1-2" role="tab" data-toggle="tab">Clase 4S</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="#tabs-1-3" role="tab" data-toggle="tab">Open Class</a>
+      <a class="nav-link" href="#tabs-1-3" role="tab" data-toggle="tab">Clase abierta</a>
     </li>
   </ul>
 <div class="tab-content">
   <div role="tabpanel" class="tab-pane fade show active" id="tabs-1-1">
     <div class="nk-gap"></div>
-    <p>The 3S Class produces a multirotor well suited for beginners and professionals alike.  Pilots are able to control their aircraft without fear of their equipment over-powering their flight skills. However, it still delivers the high-speed, adrenaline pumping racing they demand. *</p>
+    <p>
+La clase clase 4S engloba drones adecuados tanto para principiantes como para profesionales.
+Los pilotos pueden controlar sus aviones sin temor a que sus equipos superen sus habilidades
+de vuelo. Sin embargo, todavía ofrece poder realizar
+carreras de alta velocidad.
+*
+</p>
 {% if page.local_stored_specs == true %}
 {% assign pdf_path = base | append: page.s3_category_pdf %}
 {% else %}
 {% assign pdf_path = page.s3_category_pdf %}
 {% endif %}
-    <p>Download brochure specs:
+    <p>Descargar el brochure:
     <a class="nk-social-twitter" target="_blank" href="{{ pdf_path }}" target="_blank">
       <span class="fa fa-download"></span>
     </a>
@@ -46,13 +162,19 @@ open_category_pdf: /assets/specs/multigp-fpv-racing-league-2017-open-spec.pdf
   </div>
   <div role="tabpanel" class="tab-pane fade" id="tabs-1-2">
     <div class="nk-gap"></div>
-    <p>The 4S Class produces a multirotor tailored to the advanced FPV racing pilot.  Pilots must have a skill level high enough to control the aircraft appropriately or will quickly become over powered and lose the precision needed to race competitively. *</p>
+<p>
+La clase clase 4S engloba drones adecuados a pilotos de carreras FPV avanzados.
+Los pilotos deben tener un nivel de habilidad lo suficientemente alto como para
+controlar la aeronave de manera apropiada o se sobrecargarán rápidamente y perderán
+la precisión necesaria para competir competitivamente.
+*
+</p>
 {% if page.local_stored_specs == true %}
 {% assign pdf_path = base | append: page.s4_category_pdf %}
 {% else %}
 {% assign pdf_path = page.s4_category_pdf %}
 {% endif %}
-    <p>Download brochure specs:
+    <p>Descargar el brochure:
     <a class="nk-social-twitter" target="_blank" href="{{ pdf_path }}" target="_blank">
       <span class="fa fa-download"></span>
     </a>
@@ -61,13 +183,19 @@ open_category_pdf: /assets/specs/multigp-fpv-racing-league-2017-open-spec.pdf
   </div>
   <div role="tabpanel" class="tab-pane fade" id="tabs-1-3">
     <div class="nk-gap"></div>
-    <p>The Open Class is available to all multirotors.  This class is designed to promote competition between all styles and configurations of aircraft to help evolve innovation in technology and design. *</p>
+    <p>
+La clase abierta está disponible para todos los multirrotores.
+Esta clase está diseñada para promover la competencia entre todos
+los estilos y configuraciones de aeronaves para ayudar a desarrollar
+la innovación en tecnología y diseño.
+*
+</p>
 {% if page.local_stored_specs == true %}
 {% assign pdf_path = base | append: page.open_category_pdf %}
 {% else %}
 {% assign pdf_path = page.open_category_pdf %}
 {% endif %}
-    <p>Download brochure specs:
+    <p>Descargar el brochure:
     <a class="nk-social-twitter" target="_blank" href="{{ pdf_path }}" target="_blank">
       <span class="fa fa-download"></span>
     </a>
@@ -78,36 +206,32 @@ open_category_pdf: /assets/specs/multigp-fpv-racing-league-2017-open-spec.pdf
 </div>
 
 {:.text-main-1}
-#### Aircraft Specifications
+#### Especificaciones de las aeronaves
 
 {:.nk-table}
-| Class | Frame     | Prop          | Weight   | Battery         | VTX      | Special |
-| ----- | --------- | ------------- | -------- | --------------- | -------- | ------- |
-| 3S    | 305mm Max |6” (152mm) Max | 800g Max | 3 cell Lipo Max | 250mw Max|         |
-| 4S    | 305mm Max |6” (152mm) Max | 800g Max | 4 cell Lipo Max | 250mw Max|         |
-| OPEN  | No Limit  |No Limit       | No Limit | No Limit        | 250mw Max|         |
+| Clase | Chasis     | Hélices       | Peso       | Batería         | VTX        | Especial   |
+| ----- | ---------- | ------------- | ---------- | --------------- | ---------- | ---------- |
+| 3S    | 305mm Max  |6” (152mm) Max | 800g Max   | 3 cell Lipo Max | 250mw Max  |            |
+| 4S    | 305mm Max  |6” (152mm) Max | 800g Max   | 4 cell Lipo Max | 250mw Max  |            |
+| OPEN  | Sin límite | Sin límite    | Sin límite | Sin límite      | Sin límite | 250mw Max. |
 
 <br/>
 
-
-{:.text-main-1}
-#### Gate Specifications
-
-{:.nk-table}
-| Class | Gate Opening                     | Material           |
-| ----- | -------------------------------- | ------------------ |
-| 3S    | 25 sq ft (5’x5’ - 1.52m x 1.52m) | PVC and Vinyl Mesh |
-| 4S    | 25 sq ft (5’x5’ - 1.52m x 1.52m) | PVC and Vinyl Mesh |
-| OPEN  | 25 sq ft (5’x5’ - 1.52m x 1.52m) | PVC and Vinyl Mesh |
-
-<br/>
 
 {:.text-main-1}
 #### Comments
 
 {:.text-white}
-+ Remember, classes are guidelines to provide competitive standards within a typical MultiGP race day.  Chapters can choose to define and run their own classes if they wish by definining them during event planning.
-+ Many pilots will ask why the power limit of the Video Transmitter (VTx) is limited to 250mW.  This is to increase the success rate of multiple pilots having perfectly clear video transmission.  If some pilots are transmitting at a higher power, the chance of experiencing frequency issues increases.
-+ As new technology is released, classes and specs will be updated to either incorporate or withhold the advancements to maintain fair competition as the number one priority.
-+ All aircraft must be built with the ability to easily change vTx channels in a timely and accurate manner.
++ Recuerde, las clases son pautas para proporcionar estándares competitivos
+dentro de un día típico de carreras en formula-d.
++ Muchos pilotos preguntarán por qué el límite de potencia del transmisor
+de video (VTx) está configurado a 250 mW. Esto es para aumentar la tasa
+de éxito de múltiples pilotos que tienen una transmisión de video perfectamente
+clara. Si algunos pilotos están transmitiendo a una potencia más alta, la
+probabilidad de experimentar problemas de frecuencia aumenta.
++ A medida que se lanza la nueva tecnología, las clases y especificaciones se
+actualizarán para incorporar o retener los avances para mantener la competencia
+leal como la prioridad número uno.
++ Todas las aeronaves se deben construir con la capacidad de cambiar fácilmente
+los canales vTx de manera oportuna y precisa.
 
