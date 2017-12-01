@@ -3,11 +3,10 @@ locale: es
 category: about-categories
 title: Categorias
 local_stored_specs: true
-s3_category_pdf: /assets/specs/multigp-fpv-racing-league-2017-specs.pdf
-s4_category_pdf: /assets/specs/multigp-fpv-racing-league-2017-specs.pdf
-open_category_pdf: /assets/specs/multigp-fpv-racing-league-2017-open-spec.pdf
+s3_category_pdf: /assets/specs/formulad_3s_4s_specs_es.pdf
+s4_category_pdf: /assets/specs/formulad_3s_4s_specs_es.pdf
+open_category_pdf: /assets/specs/formulad_open_specs_es.pdf
 ---
-
 
 
 {:.text-main-1}
@@ -55,7 +54,6 @@ Los pilotos con gafas podrán conectarse a las estaciones de tierra con
 los cables provistos. Si tiene otro tipo de gafas, puede traer su propio adaptador RCA.
 
 
-
 {:.text-main-1}
 #### Verificaciones de los drones
 
@@ -82,8 +80,6 @@ conectar cualquier aeronave dentro del recinto CON LAS HELICES PUESTAS.
 La Organización deberá preveer un espacio asegurado para que los pilotos puedan
 hacer pruebas de vuelo en tercera persona.
 
-
-
 1. **Emisor de video** El emisor de video debe quitarse del quad, o en su defecto, asegurar su
 desconexión.
 
@@ -96,23 +92,6 @@ lengueta anulada.
 quad.
 
 5. **FailSafe** Comprobación del sistema failsafe del quad efectivo. (emisora o controladora)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 {:.text-main-1}
 #### Las clases son importantes por las siguientes razones

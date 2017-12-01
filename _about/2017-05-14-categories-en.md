@@ -3,9 +3,9 @@ locale: en
 category: about-categories
 title: Categories
 local_stored_specs: true
-s3_category_pdf: /assets/specs/multigp-fpv-racing-league-2017-specs.pdf
-s4_category_pdf: /assets/specs/multigp-fpv-racing-league-2017-specs.pdf
-open_category_pdf: /assets/specs/multigp-fpv-racing-league-2017-open-spec.pdf
+s3_category_pdf: /assets/specs/formulad_3s_4s_specs_en.pdf
+s4_category_pdf: /assets/specs/formulad_3s_4s_specs_en.pdf
+open_category_pdf: /assets/specs/formulad_open_specs_en.pdf
 ---
 
 {:.text-main-1}
