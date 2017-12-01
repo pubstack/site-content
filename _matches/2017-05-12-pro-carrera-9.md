@@ -2,13 +2,14 @@
 layout: match
 locale: es
 category: match
-race_id: 12
-title: "Carrera: 12"
-date: 2017-05-13
+race_id: 9
+title: "Carrera: 9"
+date: 2017-05-12
 location: "Madrid"
 year: 2017
 flickr_banner_race_picid: 36463385394
 flickr_icon_race_picid: 36902992930
+type: pro
 
 players:
   - name: "Ana Kprilovich"
@@ -21,16 +22,17 @@ players:
     score: "270"
     team: "Individual"
     best_time: "275 secs."
-  - name: "Maria Alvarez"
-    nick: "kraken"
-    score: "234"
+  - name: "Carlos Camacho"
+    nick: "spinner"
+    score: "0"
     team: "Individual"
-    best_time: "240 secs."
-  - name: "Miguel Morla"
-    nick: "madmorla"
-    score: "500"
+    best_time: "320 secs."
+  - name: "Ruben Masip"
+    nick: "pistolero"
+    score: "290"
     team: "Individual"
-    best_time: "174 secs."
+    best_time: "229 secs."
+
 # Main race picture
 flickr_picid: 35779582404
 
@@ -53,7 +55,7 @@ Información de la carrera
 La carrera se realizará en {{ page.location }},
 todos los resultados serán mostrados en esta página y los
 resultados globales del evento estarán disponibles en la
-[página de resultados](/{{ site.locale }}/{{ page.date | date: "%Y" }}/results/ "Página de resultados").
+[página de resultados](/{{ site.locale }}/{{ page.date | date: "%Y" }}/results-pro/ "Página de resultados").
 
 Los pilotos de esta carrera son: 
 

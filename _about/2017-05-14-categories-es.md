@@ -8,101 +8,90 @@ s4_category_pdf: /assets/specs/formulad_3s_4s_specs_es.pdf
 open_category_pdf: /assets/specs/formulad_open_specs_es.pdf
 ---
 
+Las categorías donde los pilotos podrán competir vienen dadas
+por ciertos parámetros que deberán cumplir las aeronaves.
 
-{:.text-main-1}
-#### Tamaño de la aeronave
+Todos los pilotos inscritos recibirán un pack de
+bienvenida con las reglas del evento y
+goodies de los patrocinadores/colaboradores.
 
-+ Diámetro máximo de la hélice de 5 pulgadas.
-+ Tamaño del marco 330 milímetros máximo.
-+ Embarcación multirotor con motores min 4.
-+ Batería LiPo 4S máxima, máximo 4,2 voltios por celda.
-+ Debe ser capaz de duraciones de carrera de hasta 3 minutos.
-
-{:.text-main-1}
-#### Transmisores de video
-
-Se requieren transmisores de video seleccionados para competir en la serie de carreras de drones.
-
-+ Potencia de salida: 25mw - 200mw o conmutable.
-+ Canales requeridos: Banda capaz, 40 canales.
-
-Encenderlos en cualquier momento cuando no esté compitiendo resultará en la descalificación inmediata.
-
-Se requiere que todos los corredores proporcionen un VTX de 200
-mw adecuado. Tenga en cuenta que los requisitos de VTx pueden
-cambiar por evento. Se usarán y determinarán 25mw o 200mw antes del evento.
-
-Todos los pilotos deben ser capaces de entender completamente todas las operaciones
-de su Tx, y ser capaces de cambiar los canales y la potencia según lo requerido
-por la pista y los oficiales de carrera. En todos los casos que no sean carreras,
-los Tx deben estar apagados. Los canales serán preasignados antes de la carrera.
-Los corredores deben poder cambiar los canales en su VTX con relativa facilidad
-si así lo requiere el director de la carrera.
-
-{:.text-main-1}
-#### Antenas RH y LH
-Relación axial recomendada: .6
-
-Es muy recomendable traer varios juegos de antenas para mano
-derecha e izquierda. También actualice sus antenas a las últimas
-iteraciones (relaciones axiales de .60 o mejor) para garantizar
-una señal limpia con mayor número de pilotos por curso en varias pistas.
-
-{:.text-main-1}
-#### Requisitos de gafas
-Los pilotos con gafas podrán conectarse a las estaciones de tierra con
-los cables provistos. Si tiene otro tipo de gafas, puede traer su propio adaptador RCA.
+En formula-d existen dos competiciones distintas que serán
+descritas a continuación y cada una
+de ellas deberá ser clasificada dentro de cada una de las
+siguientes categorías mostradas en esta página.
 
 
 {:.text-main-1}
-#### Verificaciones de los drones
+## Competición PRO, rondas de eliminaciones dobles
 
-Las consignas y verificaciones tienen como objetivo mantener a las aeronaves
-y los asistentes dentro de unos parámetros de Seguridad mínimos, ya que debido
-a la concentración y diversidad de material que nos encontramos, hay que
-mantener unos estándares de Seguridad válidos para todos.
+En esta competición participaran un total de 16 pilotos,
+12 pilotos profesionales y los 4 mejores pilotos de la categoría OPEN.
 
-Os enumeramos del 1 al 5 las consignas que el equipo técnico de verificaciones
-del STAFF llevará a cabo en el momento de la entrada al recinto.
+La competición se realizará bajo la modalidad
+"Compass Draw Tournament" o torneo de doble eliminación.
 
-Si no se cumple alguna de las condiciones, el piloto dispondrá de una zona de
-boxes y asistencia técnica, donde podrá corregirlas.
+Cada ronda tendrá una duración de 6 vueltas al recorrido.
+Por cada grupo de 4 pilotos, los dos primeros pilotos, en llegar a la meta y terminar las 6 vueltas en el menor tiempo posible, pasarán a
+la siguiente ronda.
+Los dos pilotos que queden en la posición tercera y cuarta de la ronda, tendrán la posibilidad
+de volver a competir en la ronda que les corresponda.
+Los pilotos que hayan perdido dos (2) rondas, quedarán eliminados definitivamente de la competición.
+Los pilotos que compitan en la ronda final, obtendrán los siguientes premios:
 
-Una vez pasadas todas las comprobaciones, la aeronave se marcará con pintauñas
-o similar, en un lugar visible, para confirmar que está VERIFICADA y es apta
-para volar.
 
-Antes de cada vuelo, se verificará que las aeronaves que van a salir a pista,
-llevan la marca de VERIFICACION.
+{:.nk-table}
+|           | Metálico | Trofeo | Productos de patrocinadores |
+| --------- | -------- | ------ | --------------------------- |
+| 1er Lugar | 750 Eur  | Sí     | Sí                          |
+| 2do Lugar | 450 Eur  | Sí     | Sí                          |
+| 3er Lugar | 250 Eur  | Sí     | Sí                          |
+| 4to Lugar | -        | Sí     | Sí                          |
 
-Se recuerda a todos los participantes que queda terminantemente prohibido
-conectar cualquier aeronave dentro del recinto CON LAS HELICES PUESTAS.
-La Organización deberá preveer un espacio asegurado para que los pilotos puedan
-hacer pruebas de vuelo en tercera persona.
+<br/>
 
-1. **Emisor de video** El emisor de video debe quitarse del quad, o en su defecto, asegurar su
-desconexión.
 
-2. **Cableado VTX** Comprobar que se llevan los dos cables Mollex conectados y con la
-lengueta anulada.
+{:.text-main-1}
+## Competición OPEN
 
-3. **Gafas** El receptor que llevan las gafas, debe quitarse para evitar problemas.
+En esta competición participaran un total de 24 pilotos.
+y esta diseñada y pensada para pilotos sin experiencia a nivel profesional.
 
-4. **Helices** No se permite llevar las helices puestas cuando se vaya a manipular el
-quad.
+La competición se realizará bajo la modalidad
+de eliminación por mayor tiempo.
 
-5. **FailSafe** Comprobación del sistema failsafe del quad efectivo. (emisora o controladora)
+Cada grupo formado por 6 pilotos correrá 3 rondas (carreras).
+Cada rondas tendrá una duración de 4 vueltas al recorrido.
+Cada piloto sumará sus dos (2) mejores tiempos obtenidos en las rondas, para la clasificación general.
+Los cuatro (4) mejores pilotos (menores tiempos acumulados) obtendrán los siguientes premios:
+
+{:.nk-table}
+|           | Metálico | Trofeo | Productos de patrocinadores | Clasificación a la competición PRO |
+| --------- | -------- | ------ | --------------------------- | ---------------------------------- |
+| 1er Lugar | 150 Eur  | Sí     | Sí                          | Sí                                 |
+| 2do Lugar | 75 Eur   | Sí     | Sí                          | Sí                                 |
+| 3er Lugar | 50 Eur   | Sí     | Sí                          | Sí                                 |
+| 4to Lugar | -        | Sí     | Sí                          | Sí                                 |
+
+<br/>
+
+
+{:.text-main-1}
+### Categorías de las competiciones
+
+A continuación se muestran las distintas categorías en las que los pilotos podrán competir,
+estas categorías serán especificadas al comienzo de cada competición.
+
 
 {:.text-main-1}
 #### Las clases son importantes por las siguientes razones
 
 {:.text-white}
-+ Permiten nivelar el campo de vuelo, de esta manera ningun piloto
++ Permiten nivelar el campo de vuelo, de esta manera ningún piloto
 tendrá ventajas sobre otros al utilizar equipos mas poderosos.
 Esto permite al piloto ganar la carrera, no a su equipación.
 + Las aeronaves pueden ser diseñadas con confianza ya
 que serán aceptadas en la competencia.
-+ Permitiran determinar que los componentes emisores de radiofrecuencias
++ Permitirán determinar que los componentes emisores de radiofrecuencias
 serán compatibles y no causarán interferencias.
 
 <div class="nk-tabs">
@@ -121,7 +110,7 @@ serán compatibles y no causarán interferencias.
   <div role="tabpanel" class="tab-pane fade show active" id="tabs-1-1">
     <div class="nk-gap"></div>
     <p>
-La clase clase 4S engloba drones adecuados tanto para principiantes como para profesionales.
+La clase clase 3S engloba drones adecuados tanto para principiantes como para profesionales.
 Los pilotos pueden controlar sus aviones sin temor a que sus equipos superen sus habilidades
 de vuelo. Sin embargo, todavía ofrece poder realizar
 carreras de alta velocidad.
@@ -188,29 +177,32 @@ la innovación en tecnología y diseño.
 #### Especificaciones de las aeronaves
 
 {:.nk-table}
-| Clase | Chasis     | Hélices       | Peso       | Batería         | VTX        | Especial   |
-| ----- | ---------- | ------------- | ---------- | --------------- | ---------- | ---------- |
-| 3S    | 305mm Max  |6” (152mm) Max | 800g Max   | 3 cell Lipo Max | 250mw Max  |            |
-| 4S    | 305mm Max  |6” (152mm) Max | 800g Max   | 4 cell Lipo Max | 250mw Max  |            |
-| OPEN  | Sin límite | Sin límite    | Sin límite | Sin límite      | Sin límite | 250mw Max. |
+| Clase | Chasis     | Hélices       | Peso       | Batería         | VTX        | Motores           | Especial |
+| ----- | ---------- | ------------- | ---------- | --------------- | ---------- | ----------------- | -------- |
+| 3S    | 305mm Max  |6” (152mm) Max | 800g Max   | 3 cell Lipo Max | 250mw Max  | Sin restricciones |          |
+| 4S    | 305mm Max  |6” (152mm) Max | 800g Max   | 4 cell Lipo Max | 250mw Max  | Sin restricciones |          |
+| OPEN  | Sin límite | Sin límite    | 800g Max   | Sin límite      | 250mw Max  | Sin restricciones |          |
 
 <br/>
 
 
 {:.text-main-1}
-#### Comments
+#### Comentarios
 
 {:.text-white}
 + Recuerde, las clases son pautas para proporcionar estándares competitivos
 dentro de un día típico de carreras en formula-d.
+
 + Muchos pilotos preguntarán por qué el límite de potencia del transmisor
 de video (VTx) está configurado a 250 mW. Esto es para aumentar la tasa
 de éxito de múltiples pilotos que tienen una transmisión de video perfectamente
 clara. Si algunos pilotos están transmitiendo a una potencia más alta, la
 probabilidad de experimentar problemas de frecuencia aumenta.
+
 + A medida que se lanza la nueva tecnología, las clases y especificaciones se
 actualizarán para incorporar o retener los avances para mantener la competencia
 leal como la prioridad número uno.
+
 + Todas las aeronaves se deben construir con la capacidad de cambiar fácilmente
 los canales vTx de manera oportuna y precisa.
 

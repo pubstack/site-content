@@ -2,13 +2,14 @@
 layout: match
 locale: es
 category: match
-race_id: 6
-title: "Carrera: 6"
+race_id: 1
+title: "Carrera: 1"
 date: 2017-05-12
 location: "Madrid"
 year: 2017
-flickr_banner_race_picid: 36463385394
 flickr_icon_race_picid: 36902992930
+flickr_banner_race_picid: 36463385394
+type: pro
 
 players:
   - name: "Joseph Catalan"
@@ -21,22 +22,22 @@ players:
     score: "300"
     team: "Individual"
     best_time: "233.454 secs."
-  - name: "Maria Alvarez"
-    nick: "kraken"
-    score: "234"
+  - name: "Ana Kprilovich"
+    nick: "kna"
+    score: "225"
     team: "Individual"
-    best_time: "240 secs."
-  - name: "Jose Luis Pano"
-    nick: "pano"
-    score: "222"
+    best_time: "245 secs."
+  - name: "Carlos Camacho"
+    nick: "spinner"
+    score: "0"
     team: "Individual"
-    best_time: "233.454 secs."
+    best_time: "320 secs."
 
 # Main race picture
 flickr_picid: 35779582404
 
 # To show tome pictures in the gallery
-# flickr_galleryid: 72157681090125822
+flickr_galleryid: 72157681090125822
 
 ---
 
@@ -54,10 +55,11 @@ Información de la carrera
 La carrera se realizará en {{ page.location }},
 todos los resultados serán mostrados en esta página y los
 resultados globales del evento estarán disponibles en la
-[página de resultados](/{{ site.locale }}/{{ page.date | date: "%Y" }}/results/ "Página de resultados").
+[página de resultados](/{{ site.locale }}/{{ page.date | date: "%Y" }}/results-pro/ "Página de resultados").
 
-Los pilotos de esta carrera son: 
+Los pilotos de esta carrera son:
 
 {% for player in page.players %}
 * {{ player.name }}
 {% endfor %}
+

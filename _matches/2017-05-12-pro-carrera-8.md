@@ -2,35 +2,36 @@
 layout: match
 locale: es
 category: match
-race_id: 3
-title: "Carrera: 3"
+race_id: 8
+title: "Carrera: 8"
 date: 2017-05-12
 location: "Madrid"
 year: 2017
 flickr_banner_race_picid: 36463385394
 flickr_icon_race_picid: 36902992930
+type: pro
 
 players:
-  - name: "Miguel Morla"
-    nick: "madmorla"
-    score: "500"
+  - name: "Marta Martinez"
+    nick: "martica"
+    score: "222"
     team: "Individual"
-    best_time: "174 secs."
+    best_time: "233.454 secs."
+  - name: "Irina Pldas"
+    nick: "pldas"
+    score: "334"
+    team: "Individual"
+    best_time: "245.454 secs."
   - name: "Paula Odonnell"
     nick: "poo"
     score: "300"
     team: "Individual"
     best_time: "230 secs."
-  - name: "Ruben Masip"
-    nick: "pistolero"
-    score: "290"
+  - name: "Miguel Morla"
+    nick: "madmorla"
+    score: "500"
     team: "Individual"
-    best_time: "229 secs."
-  - name: "Aihnoa Pereiro"
-    nick: "noa"
-    score: "270"
-    team: "Individual"
-    best_time: "275 secs."
+    best_time: "174 secs."
 
 # Main race picture
 flickr_picid: 35779582404
@@ -54,7 +55,7 @@ Información de la carrera
 La carrera se realizará en {{ page.location }},
 todos los resultados serán mostrados en esta página y los
 resultados globales del evento estarán disponibles en la
-[página de resultados](/{{ site.locale }}/{{ page.date | date: "%Y" }}/results/ "Página de resultados").
+[página de resultados](/{{ site.locale }}/{{ page.date | date: "%Y" }}/results-pro/ "Página de resultados").
 
 Los pilotos de esta carrera son: 
 

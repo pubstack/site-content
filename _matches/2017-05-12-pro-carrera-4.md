@@ -2,35 +2,36 @@
 layout: match
 locale: es
 category: match
-race_id: 13
-title: "Carrera: 13"
-date: 2017-05-13
+race_id: 4
+title: "Carrera: 4"
+date: 2017-05-12
 location: "Madrid"
 year: 2017
 flickr_banner_race_picid: 36463385394
 flickr_icon_race_picid: 36902992930
+type: pro
 
 players:
-  - name: "Marta Martinez"
-    nick: "martica"
-    score: "222"
-    team: "Individual"
-    best_time: "233.454 secs."
   - name: "Irina Pldas"
     nick: "pldas"
     score: "334"
     team: "Individual"
     best_time: "245.454 secs."
-  - name: "Ana Kprilovich"
-    nick: "kna"
+  - name: "Marta Martinez"
+    nick: "martica"
+    score: "222"
+    team: "Individual"
+    best_time: "233.454 secs."
+  - name: "Adrian Rodriguez"
+    nick: "adri"
     score: "225"
     team: "Individual"
     best_time: "245 secs."
-  - name: "Aihnoa Pereiro"
-    nick: "noa"
-    score: "270"
+  - name: "Rodrigo Rato"
+    nick: "rato"
+    score: "0"
     team: "Individual"
-    best_time: "275 secs."
+    best_time: "320 secs."
 
 # Main race picture
 flickr_picid: 35779582404
@@ -54,7 +55,7 @@ Información de la carrera
 La carrera se realizará en {{ page.location }},
 todos los resultados serán mostrados en esta página y los
 resultados globales del evento estarán disponibles en la
-[página de resultados](/{{ site.locale }}/{{ page.date | date: "%Y" }}/results/ "Página de resultados").
+[página de resultados](/{{ site.locale }}/{{ page.date | date: "%Y" }}/results-pro/ "Página de resultados").
 
 Los pilotos de esta carrera son: 
 
