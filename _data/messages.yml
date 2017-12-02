@@ -1,5 +1,9 @@
 locales:
   en:
+    best-time: "Best time"
+    position: "#"
+    nick: "Nick"
+    points: "Points"
     search: "Search"
     home: "Home page"
     404: "Page not found"
@@ -72,7 +76,7 @@ locales:
     your-order: "Your order"
     your: "Your"
     order: "order"
-    name: "Nombre"
+    name: "Name"
     price: "Price"
     size: "Size"
     color: "Color"
@@ -187,6 +191,10 @@ locales:
     2017-schedule: "2017 schedulle"
     2017-teams: "2017 teams"
   es:
+    best-time: "Mejor tiempo"
+    position: "#"
+    nick: "Nick"
+    points: "Puntos"
     search: "Buscar"
     home: "Página de inicio"
     404: "Página no encontrada"
