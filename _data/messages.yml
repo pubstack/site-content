@@ -202,6 +202,9 @@ locales:
     2017-schedule: "2017 schedulle"
     2017-teams: "2017 teams"
     2017-pilots: "2017 pilots"
+    2017-documents: "2017 documents"
+    documents-description: "In this page you can find all the documents related to this event."
+    documents: "Documents"
   es:
     quote: "Cita"
     professional: "Profesionales"
@@ -405,3 +408,6 @@ locales:
     2017-schedule: "Calendario 2017"
     2017-teams: "Equipos 2017"
     2017-pilots: "Pilotos 2017"
+    2017-documents: "Documentos 2017"
+    documents-description: "Esta página muestra los documentos relacionados a el evento."
+    documents: "Documentos"
