@@ -1,5 +1,10 @@
 locales:
   en:
+    ranking: "Ranking"
+    global: "Global"
+    place: "Place"
+    time: "Time"
+    average: "Average"
     best-time: "Best time"
     position: "#"
     nick: "Nick"
@@ -191,6 +196,11 @@ locales:
     2017-schedule: "2017 schedulle"
     2017-teams: "2017 teams"
   es:
+    ranking: "Ranking"
+    global: "Global"
+    place: "Lugar"
+    time: "Tiempo"
+    average: "Promedio"
     best-time: "Mejor tiempo"
     position: "#"
     nick: "Nick"
