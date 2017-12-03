@@ -1,5 +1,9 @@
 locales:
   en:
+    live: "Live"
+    streaming: "Streaming"
+    feed: "Feed"
+    in: "In"
     birthday: "Birthday"
     quote: "Quote"
     professional: "Professional"
@@ -207,6 +211,10 @@ locales:
     documents-description: "In this page you can find all the documents related to this event."
     documents: "Documents"
   es:
+    live: "Vivo"
+    streaming: "Streaming"
+    feed: "Transmisión"
+    in: "En"
     birthday: "Nacimiento"
     quote: "Cita"
     professional: "Profesionales"
