@@ -8,5 +8,5 @@ page: https://goo.gl/LxWA3p
 email: agus@formulad.org
 flickr_picid: 26724813529
 type: pro
-quote: El voladito vuela
+birthday: "1976/03/15"
 ---

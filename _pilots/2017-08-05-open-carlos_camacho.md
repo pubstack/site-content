@@ -8,5 +8,5 @@ page: http://www.ccamacho.org
 email: ccamacho@formulad.org
 flickr_picid: 38206170796
 type: open
-quote: Estrellar para volar
+birthday: "1986/09/15"
 ---

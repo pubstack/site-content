@@ -1,5 +1,6 @@
 locales:
   en:
+    birthday: "Birthday"
     quote: "Quote"
     professional: "Professional"
     amateur: "Amateur"
@@ -206,6 +207,7 @@ locales:
     documents-description: "In this page you can find all the documents related to this event."
     documents: "Documents"
   es:
+    birthday: "Nacimiento"
     quote: "Cita"
     professional: "Profesionales"
     amateur: "Amateur"
