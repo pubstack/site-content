@@ -1,5 +1,6 @@
 locales:
   en:
+    unboxing: "Unboxing"
     live: "Live"
     streaming: "Streaming"
     feed: "Feed"
@@ -198,6 +199,7 @@ locales:
     teams-description: "The rival teams in this formula-d race championship."
     pilots-description: "This page shows all the pilots in this formula-d race championship."
     search-description: "In this page you can search an find all post you need, just go to the search field and start typing"
+    unboxing-description: "This page shows all our awesome unboxing videos and reviews."
     search-results: "Search results"
     guest-writer: "Guest writer"
     rules-gobernance: "Rules and gobernance"
@@ -211,6 +213,7 @@ locales:
     documents-description: "In this page you can find all the documents related to this event."
     documents: "Documents"
   es:
+    unboxing: "Unboxing"
     live: "Vivo"
     streaming: "Streaming"
     feed: "Transmisión"
@@ -409,6 +412,7 @@ locales:
     teams-description: "Esta página muestra los equipos rivales del campeonado de carreras de drones formula-d."
     pilots-description: "Esta página muestra los pilotos del campeonado de carreras de drones formula-d."
     search-description: "Esta página te permitirá buscar todos los artículos en función de tus necesidades, solo ve al campo de búsqueda y empieza a escribir."
+    unboxing-description: "Esta página muestra todas nuestras reviews y videos sobre los unboxing de formula-d."
     search-results: "Resultados de la búsqueda"
     guest-writer: "Escritor invitado"
     rules-gobernance: "Reglas y gobierno"
