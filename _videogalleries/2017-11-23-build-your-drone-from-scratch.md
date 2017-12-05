@@ -11,4 +11,6 @@ youtube_videos:
   - xCEIi-B-JIc
   - 2L7aZg_TdKM
   - I31ouCx8fSw
+  - 07-r5s_kMoI
+  - FaUZaQrNy78
 ---
