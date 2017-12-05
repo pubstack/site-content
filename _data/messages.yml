@@ -1,5 +1,6 @@
 locales:
   en:
+    view-gallery: "View gallery"
     unboxing: "Unboxing"
     live: "Live"
     streaming: "Streaming"
@@ -213,6 +214,7 @@ locales:
     documents-description: "In this page you can find all the documents related to this event."
     documents: "Documents"
   es:
+    view-gallery: "Ver galería"
     unboxing: "Unboxing"
     live: "Vivo"
     streaming: "Streaming"
