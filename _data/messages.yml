@@ -1,5 +1,7 @@
 locales:
   en:
+    help-us: "Help us"
+    attending-to-formulad: "Attending to formula-d"
     view-gallery: "View gallery"
     unboxing: "Unboxing"
     live: "Live"
@@ -214,6 +216,8 @@ locales:
     documents-description: "In this page you can find all the documents related to this event."
     documents: "Documents"
   es:
+    help-us: "Ayúdanos"
+    attending-to-formulad: "ÍR a formula-d"
     view-gallery: "Ver galería"
     unboxing: "Unboxing"
     live: "Vivo"
