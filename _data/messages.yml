@@ -1,6 +1,8 @@
 locales:
   en:
-    help-us: "Help us"
+    statistics: "Statistics"
+    improve: "Improve"
+    help-us: "Help us!"
     attending-to-formulad: "Attending to formula-d"
     view-gallery: "View gallery"
     unboxing: "Unboxing"
@@ -203,6 +205,7 @@ locales:
     pilots-description: "This page shows all the pilots in this formula-d race championship."
     search-description: "In this page you can search an find all post you need, just go to the search field and start typing"
     unboxing-description: "This page shows all our awesome unboxing videos and reviews."
+    help-us-description: "We like to run this event because we enjoy it, although, we have some expenses to cover. Opening this page will automatically help the project by using a small amount of your CPU for mining Moneros, in real life, it will be a minuscule amount of Moneros but we hope that in the near future we can have several users helping with this task."
     search-results: "Search results"
     guest-writer: "Guest writer"
     rules-gobernance: "Rules and gobernance"
@@ -216,7 +219,9 @@ locales:
     documents-description: "In this page you can find all the documents related to this event."
     documents: "Documents"
   es:
-    help-us: "Ayúdanos"
+    statistics: "Estadísticas"
+    improve: "Mejorar"
+    help-us: "¡Ayúdanos!"
     attending-to-formulad: "ÍR a formula-d"
     view-gallery: "Ver galería"
     unboxing: "Unboxing"
@@ -419,6 +424,7 @@ locales:
     pilots-description: "Esta página muestra los pilotos del campeonado de carreras de drones formula-d."
     search-description: "Esta página te permitirá buscar todos los artículos en función de tus necesidades, solo ve al campo de búsqueda y empieza a escribir."
     unboxing-description: "Esta página muestra todas nuestras reviews y videos sobre los unboxing de formula-d."
+    help-us-description: "Nos gusta realizar este evento porque lo disfrutamos, aunque, tenemos algunos gastos que cubrir. Abrir esta página ayudará automáticamente al proyecto, usando una pequeña cantidad de tu CPU para minar Moneros, en la vida real, será una cantidad minúscula de Moneros, pero esperamos que en un futuro cercano podamos tener muchos usuarios ayudándonos en esta tarea."
     search-results: "Resultados de la búsqueda"
     guest-writer: "Escritor invitado"
     rules-gobernance: "Reglas y gobierno"
