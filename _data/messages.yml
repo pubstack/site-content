@@ -202,7 +202,7 @@ locales:
     locations-description: "This page describes all the formula-d current locations across the globe."
     matches-description: "All the matches descriptions for formula-d race championship."
     results-description-pro: "The results and score page of formula-d race championship in the PRO competition."
-    results-description-pro: "The results and score page of formula-d race championship in the OPEN competition."
+    results-description-open: "The results and score page of formula-d race championship in the OPEN competition."
     schedule-description: "The schedule for the matches in formula-d race championship."
     register-description: "This page allows you to know everything to participate in the event. Pilots, hotels and general public, here you will find all the information you need."
     teams-description: "The rival teams in this formula-d race championship."
