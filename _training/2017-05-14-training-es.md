@@ -6,7 +6,7 @@ category: training
 title: Categories
 ---
 
-## Licencia de pilotro profesional de drones avanzada
+## Licencia avanzada de pilotro profesional de drones
 
 Para poder realizar trabajos aéreos es necesario completar
 una formación teórica (disponible online), y una formación
