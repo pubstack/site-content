@@ -6,13 +6,16 @@ category: training
 title: Categories
 ---
 
+## Licencia de pilotro profesional de drones avanzada
+
 Para poder realizar trabajos aéreos es necesario completar
 una formación teórica (disponible online), y una formación
 práctica que incluye vuelos de entrenamiento. Esta última
 parte es 100% presencial.
 
-Mobus te facilita el curso completo en uno de sus
-multirrotores a 650€, una cifra redonda y sin letra pequeña.
+Mobus te facilita el curso completo de piloto de drones
+profesional en su modalidad avanzada, en uno de sus
+multirrotores por un precio único de 650€, una cifra redonda y sin letra pequeña.
 
 Sin embargo, si dispones de algún tipo de licencia de vuelo,
 es muy probable que ya tengas convalidada la parte teórica.

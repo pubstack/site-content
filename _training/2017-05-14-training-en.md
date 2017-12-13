@@ -4,6 +4,7 @@ category: training
 title: Categories
 ---
 
+## Advanced professional drone pilot license
 
 To be able to carry out aerial work it is necessary to complete
 a theoretical training (available online), and a training
