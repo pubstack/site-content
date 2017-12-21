@@ -123,5 +123,9 @@ Examen práctico.
 
 <hr/>
 
-<span class="nk-post-title h5"><a target="_blank" href="http://www.mobus.es">Más información en mobus</a></span>
+<span class="nk-post-title h5">
+                                                <a href="http://www.mobus.es" onclick="trackOutboundLink('http://www.mobus.es'); return false;">
+                                                    More information in mobus
+                                                </a>
+</span>
 
