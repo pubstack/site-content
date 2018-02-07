@@ -61,7 +61,7 @@ En esta competición participaran un total de 24 pilotos.
 y esta diseñada y pensada para pilotos sin experiencia a nivel profesional.
 
 Cada piloto matriculado en la categoria OPEN deberá 
-pagar una tasa de inscripción de 50 Eur.
+pagar una tasa de inscripción de 20 Eur.
 
 La competición se realizará bajo la modalidad
 de eliminación por mayor tiempo.

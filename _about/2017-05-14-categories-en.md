@@ -57,7 +57,7 @@ This competition is open to all pilots to participate,
 and is designed and thought for pilots without professional experience.
 
 Each pilot inroled in the OPEN category will
-need to pay a tuition fee of 50 Eur.
+need to pay a tuition fee of 20 Eur.
 
 The competition will be held under the modality
 of elimination for greater time.
