@@ -20,15 +20,17 @@ described below and each
 of them should be classified within each of the
 following categories shown on this page.
 
-
 {: .text-main-1}
 ## PRO competition, rounds of double eliminations
 
 In this competition a total of 16 pilots will participate,
-12 professional pilots and the 4 best pilots in the OPEN category.
+12 professional pilots and the best 4 pilots in the OPEN category.
 
 The competition will be held under the modality
 "Compass Draw Tournament" or double elimination tournament.
+
+The 12 pilots selected for the PRO competition will
+receive a unique 500 Eur reimbursement for travel expenses.
 
 Each round will last 6 laps of the course.
 For each group of 4 pilots, the first two pilots, to reach the finish line and finish the 6 laps in the shortest possible time, will pass to
@@ -37,31 +39,13 @@ The two pilots remaining in the third and fourth positions of the round will hav
 to return to compete in the corresponding round.
 Pilots who have lost two (2) rounds will be definitively eliminated from the competition.
 The pilots who compete in the final round will obtain the following prizes:
-
-{: .text-main-1}
-## PRO competition, rounds of double eliminations
-
-In this competition a total of 16 pilots will participate,
-12 professional pilots and the 4 best pilots in the OPEN category.
-
-The competition will be held under the modality
-"Compass Draw Tournament" or double elimination tournament.
-
-Each round will last 6 laps of the course.
-For each group of 4 pilots, the first two pilots, to reach the finish line and finish the 6 laps in the shortest possible time, will pass to
-the next round.
-The two pilots remaining in the third and fourth positions of the round will have the possibility
-to return to compete in the corresponding round.
-Pilots who have lost two (2) rounds will be definitively eliminated from the competition.
-The pilots who compete in the final round will obtain the following prizes:
-
 
 {: .nk-table}
 |           | Metallic | Trophy | Sponsors products |
 | --------- | -------- | ------ | ----------------- |
-| 1st Place | 750 Eur  | Yes    | Yes               |
-| 2nd Place | 450 Eur  | Yes    | Yes               |
-| 3rd Place | 250 Eur  | Yes    | Yes               |
+| 1st Place | 1500 Eur | Yes    | Yes               |
+| 2nd Place | 750 Eur  | Yes    | Yes               |
+| 3rd Place | 500 Eur  | Yes    | Yes               |
 | 4th Place | -        | Yes    | Yes               |
 
 <br/>
@@ -69,8 +53,11 @@ The pilots who compete in the final round will obtain the following prizes:
 {: .text-main-1}
 ## OPEN Competition
 
-In this competition a total of 24 pilots will participate.
+This competition is open to all pilots to participate,
 and is designed and thought for pilots without professional experience.
+
+Each pilot inroled in the OPEN category will
+need to pay a tuition fee of 50 Eur.
 
 The competition will be held under the modality
 of elimination for greater time.

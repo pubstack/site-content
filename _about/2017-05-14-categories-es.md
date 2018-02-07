@@ -30,6 +30,10 @@ En esta competición participaran un total de 16 pilotos,
 La competición se realizará bajo la modalidad
 "Compass Draw Tournament" o torneo de doble eliminación.
 
+Los 12 pilotos seleccionados para la competición PRO
+recibiran un pago único de 500 Eur para gastos de
+viaje y dietas.
+
 Cada ronda tendrá una duración de 6 vueltas al recorrido.
 Por cada grupo de 4 pilotos, los dos primeros pilotos, en llegar a la meta y terminar las 6 vueltas en el menor tiempo posible, pasarán a
 la siguiente ronda.
@@ -42,9 +46,9 @@ Los pilotos que compitan en la ronda final, obtendrán los siguientes premios:
 {:.nk-table}
 |           | Metálico | Trofeo | Productos de patrocinadores |
 | --------- | -------- | ------ | --------------------------- |
-| 1er Lugar | 750 Eur  | Sí     | Sí                          |
-| 2do Lugar | 450 Eur  | Sí     | Sí                          |
-| 3er Lugar | 250 Eur  | Sí     | Sí                          |
+| 1er Lugar | 1500 Eur | Sí     | Sí                          |
+| 2do Lugar | 750 Eur  | Sí     | Sí                          |
+| 3er Lugar | 500 Eur  | Sí     | Sí                          |
 | 4to Lugar | -        | Sí     | Sí                          |
 
 <br/>
@@ -55,6 +59,9 @@ Los pilotos que compitan en la ronda final, obtendrán los siguientes premios:
 
 En esta competición participaran un total de 24 pilotos.
 y esta diseñada y pensada para pilotos sin experiencia a nivel profesional.
+
+Cada piloto matriculado en la categoria OPEN deberá 
+pagar una tasa de inscripción de 50 Eur.
 
 La competición se realizará bajo la modalidad
 de eliminación por mayor tiempo.
