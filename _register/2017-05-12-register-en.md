@@ -6,6 +6,25 @@ btn_link: https://formulad.eventbrite.es
 btn_text: Register
 ---
 
-Competitors and Spectators should register online in advance of the tournament.
-This year, we are partnering with eventbrite to handle online registration. Your tournament registration
-is required to enter the formula-d tournament and vendor hall on the events days.
+The formula-d drone racing championship is a
+event open to the general public at no cost.
+All people interested in attending as
+general public will be able to enjoy the
+event, participate in contests and win prizes.
+
+<span><span class="text-main-1">PRO</span> category</span>
+
+The PRO category is a category reserved for professionals pilots
+with experience in the field
+of drone racing.
+
+<span><span class="text-main-1">OPEN</span> category</span>
+
+Pilots wishing to compete in the OPEN category may do so
+as long as the drones with which they compete meet the specifications
+of the event.
+
+To register in the competition they must buy the ticket in the following button,
+Once the purchase is made, you will receive an email with the specifications
+of the race, the circuit and all the information regarding the security policies of
+the event.
