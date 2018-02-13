@@ -1,6 +1,6 @@
 locales:
   en:
-    corganizers: "Co-organizers"
+    coorganizers: "Co-organizers"
     monero-only-here: "It's very important to say that this monero miner will only run if you open the help us page, and is not executed anywhere else in the site, so please, if you can, keep this page opened as much as you can."
     training: "Training"
     training-formulad: "formula-d constantly search for the best partners to innovate and train highly skilled pilots."
@@ -225,7 +225,7 @@ locales:
     documents-description: "In this page you can find all the documents related to this event."
     documents: "Documents"
   es:
-    corganizers: "Co-organizadores"
+    coorganizers: "Co-organizadores"
     monero-only-here: "Es importante destacar que el minador de moneros sólo se ejecuta al tener abierta la página 'ayudanos' por lo que no está disponible en ningún otro lugar, por lo que te pedimos en la medida de lo posible, mantener esta página abierta el mayor tiempo posible."
     training: "Capacitación"
     training-formulad: "formula-d busca constantemente los mejores partners para innovar y formar a pilotos profesionales altamente capacitados en su modalidad avanzada."
