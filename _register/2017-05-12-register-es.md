@@ -12,13 +12,13 @@ Todas las personas interesadas en asistir en calidad
 de público general podrán disfrutar del
 evento, participar en los concursos y ganar premios.
 
-<span><span class="text-main-1">Categoría</span> PRO</span>
+<h5> <span><span class="text-main-1">Categoría</span> PRO</span></h5>
 
 La categoría PRO es una categoría reservada para pilotos 
 profesionales con experiencia y trayectoria en el ámbito
 de las carreras de drones.
 
-<span><span class="text-main-1">Categoría</span> OPEN</span>
+<h5> <span><span class="text-main-1">Categoría</span> OPEN</span></h5>
 
 Los pilotos que deseen competir en la categoría OPEN podrán hacerlo
 siempre y cuando los drones con los que compitan cumplan las especificaciones
