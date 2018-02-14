@@ -1,12 +1,16 @@
 ---
 category: partners
 year: 2018
-main_logo: "assets/images/logo_caser.png"
+#main_logo: "assets/images/logo_caser.png"
+main_logo: "assets/images/logo.png"
 # SPONSOR LOGOS
 title_sponsor:
-  - name: "Caser seguros"
-    url: "https://www.caser.es/"
-    img: "assets/images/partners/caser.png"
+#  - name: "Caser seguros"
+#    url: "https://www.caser.es/"
+#    img: "assets/images/partners/caser.png"
+  - name: ""
+    url: "#"
+    img: ""
 main_sponsors:
   - name: ""
     url: "#"
