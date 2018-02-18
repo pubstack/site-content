@@ -35,7 +35,7 @@ co_organizers:
 tech_collaborators:
   - name: "Flying Monkeys Publicidad"
     url: "http://www.flyingmonkeys.es/"
-    img: "assets/images/partners/FMP.png"
+    img: "assets/images/partners/fmp_white.png"
   - name: "Mobus"
     url: "https://www.mobus.es/"
     img: "assets/images/partners/mobus_square.png"
