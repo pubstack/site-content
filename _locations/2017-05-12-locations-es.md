@@ -11,7 +11,7 @@ flickr_location_2: 36391358754
 #### Madrid
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-left mt-0" src="{% flickr_image page.flickr_location_1 %}" alt="">
+    <img style="height: 155px;" class="float-left mt-0" src="{% flickr_image page.flickr_location_1 %}" alt="">
         <p class="text-white">
 Capital histórica de España, Madrid atrae
 tanto por su clima como por su oferta cultural única.
@@ -25,7 +25,7 @@ y flamencos, expresionistas e impresionistas.
 </div>
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-right mt-0" src="{% flickr_image page.flickr_location_2 %}" alt="">
+    <img style="height: 155px;" class="float-right mt-0" src="{% flickr_image page.flickr_location_2 %}" alt="">
         <p class="text-white">
 La Plaza de Toros es la mayor plaza de España y
 el fervor de los españoles por la tauromaquia solo

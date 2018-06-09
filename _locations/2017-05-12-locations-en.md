@@ -11,7 +11,7 @@ flickr_location_2: 36391358754
 #### Madrid
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-left mt-0" src="{% flickr_image page.flickr_location_1 %}" alt="">
+    <img style="height: 155px;" class="float-left mt-0" src="{% flickr_image page.flickr_location_1 %}" alt="">
         <p class="text-white">
 Madrid, the historic capital of Spain, attarcts a great deal of tourists throughout the year;
 its beautiful climate and cultural life make it a major destination. The Prado museum, boasting
@@ -22,7 +22,7 @@ Flemish primitives, expressionists and impressionists.
 </div>
 
 <div class="nk-post-text mt-0">
-    <img style="height: 155px;" class="pull-right mt-0" src="{% flickr_image page.flickr_location_2 %}" alt="">
+    <img style="height: 155px;" class="float-right mt-0" src="{% flickr_image page.flickr_location_2 %}" alt="">
         <p class="text-white">
 The famed Plaza del Toros is the largest arena in the city,
 proving that nothing sparks up a festive ambiance like watching
