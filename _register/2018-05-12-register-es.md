@@ -4,10 +4,10 @@ category: register-event
 title: Regístrate para el evento
 btn_link: https://formulad.eventbrite.es
 btn_text: Regístrate
-year: 2017
+year: 2018
 ---
 
-El campeonato de carreras de drones formula-d 2017 es un
+El campeonato de carreras de drones formula-d 2018 es un
 evento abierto al público general sin ningún coste.
 Todas las personas interesadas en asistir en calidad
 de público general podrán disfrutar del

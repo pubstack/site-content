@@ -4,10 +4,10 @@ category: register-event
 title: Register for the event
 btn_link: https://formulad.eventbrite.es
 btn_text: Register
-year: 2017
+year: 2018
 ---
 
-The 2017 formula-d drone racing championship is a
+The 2018 formula-d drone racing championship is a
 event open to the general public at no cost.
 All people interested in attending as
 general public will be able to enjoy the
