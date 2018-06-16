@@ -252,6 +252,8 @@ locales:
     librefpv-buildlog: "LibreFPV buildlog"
     librefpv-buildlog-description: "This page will show LibreFPV buildlog"
     projects: "Projects"
+    build: "Build"
+    author: "Author"
   es:
     sponsor: "Patrocinador"
     title: "Titular"
@@ -505,3 +507,5 @@ locales:
     librefpv-buildlog: "Buildlog de LibreFPV"
     librefpv-buildlog-description: "Esta página muestra la vitácora del proyecto LibreFPV"
     projects: "Proyectos"
+    build: "Build"
+    author: "Autor"
