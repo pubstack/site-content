@@ -1,9 +1,14 @@
 ---
+layout: schedule
 locale: en
 category: schedule-general
 schedule_id: 1
 year: 2018
 title: general 1 en
+permalink: /2018/schedule/
+
+title: 2018-schedule
+description: schedule-description
 ---
 
 

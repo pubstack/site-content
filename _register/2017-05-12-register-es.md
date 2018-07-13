@@ -1,10 +1,15 @@
 ---
+layout: register
 locale: es
 category: register-event
 title: Regístrate para el evento
 btn_link: https://formulad.eventbrite.es
 btn_text: Regístrate
 year: 2017
+permalink: /2017/register/
+
+title: 2017-register
+description: register-description
 ---
 
 El campeonato de carreras de drones formula-d 2017 es un

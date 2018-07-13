@@ -1,7 +1,10 @@
 ---
+layout: partners
 category: partners
 year: 2017
 main_logo: "assets/images/logo.png"
+title: 2017-partners
+permalink: /2017/partners/
 # SPONSOR LOGOS
 title_sponsor:
   - name: ""

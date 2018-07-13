@@ -1,10 +1,15 @@
 ---
+layout: locations
 locale: en
 category: locations
 title: Locations
-year: 2017
 flickr_location_1: 37056809332
 flickr_location_2: 36391358754
+year: 2017
+permalink: /2017/locations/
+
+title: 2017-locations
+description: locations-description
 ---
 
 
