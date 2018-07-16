@@ -5,6 +5,7 @@ year: 2018
 #main_logo: "assets/images/logo_caser.png"
 main_logo: "assets/images/logo.png"
 title: 2018-partners
+description: partners-description
 permalink: /2018/partners/
 # SPONSOR LOGOS
 title_sponsor:

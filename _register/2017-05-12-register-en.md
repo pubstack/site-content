@@ -8,8 +8,8 @@ btn_text: Register
 year: 2017
 permalink: /2017/register/
 
-title: 2017-register
-description: register-description
+title: "Register for the 2017 event"
+description: "Register for the 2017 event"
 ---
 
 The 2017 formula-d drone racing championship is a

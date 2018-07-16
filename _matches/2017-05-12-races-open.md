@@ -7,6 +7,7 @@ year: 2017
 type: "open"
 permalink: /2017/results-open/
 title: 2017-results-open
+description: results-open-description
 
 matches:
   -

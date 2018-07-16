@@ -3,12 +3,11 @@ layout: schedule
 locale: en
 category: schedule-general
 schedule_id: 1
-year: 2017
 title: general 1 en
 permalink: /2017/schedule/
 
-title: 2017-schedule
-description: schedule-description
+title: "General information for the schedule of the 2017 season"
+description: "General information for the schedule of the 2017 season"
 ---
 
 

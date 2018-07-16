@@ -8,8 +8,8 @@ btn_text: Regístrate
 year: 2017
 permalink: /2017/register/
 
-title: 2017-register
-description: register-description
+title: "Regístrate en el evento para la temporada 2017"
+description: "Regístrate en el evento para la temporada 2017"
 ---
 
 El campeonato de carreras de drones formula-d 2017 es un

@@ -4,11 +4,10 @@ locale: en
 category: schedule-general
 schedule_id: 1
 year: 2018
-title: general 1 en
 permalink: /2018/schedule/
 
-title: 2018-schedule
-description: schedule-description
+title: "General information for the schedule of the 2018 season"
+description: "General information for the schedule of the 2018 season"
 ---
 
 
