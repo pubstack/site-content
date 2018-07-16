@@ -10,21 +10,36 @@ permalink: /2017/partners/
 title_sponsor:
   - name: ""
     url: "#"
-    img: ""
+    img:
+      white: ""
+      black: ""
 main_sponsors:
   - name: ""
     url: "#"
-    img: ""
+    img:
+      white: ""
+      black: ""
 main_collaborators:
   - name: ""
     url: "#"
-    img: ""
+    img:
+      white: ""
+      black: ""
 co_organizers:
-  - name: ""
-    url: "#"
-    img: ""
+  - name: "MasnouTech"
+    url: "http://www.masnoubarna.com/masnou-tech/"
+    img:
+      white: "assets/images/partners/masnoutech.png"
+      black: "assets/images/partners/masnoutech.png"
 tech_collaborators:
-  - name: ""
-    url: "#"
-    img: ""
+  - name: "Flying Monkeys Publicidad"
+    url: "http://www.flyingmonkeys.es/"
+    img:
+      white: "assets/images/partners/fmp_white.png"
+      black: "assets/images/partners/fmp_color.png"
+  - name: "Mobus"
+    url: "https://www.mobus.es/"
+    img:
+      white: "assets/images/partners/mobus_square.png"
+      black: "assets/images/partners/mobus_color.png"
 ---
